@@ -5,7 +5,7 @@ These are solutions of my OS Assesment.
 # Tasks:
 
 Question 5:
-
+------------
 A university computer science department has a teaching assistant (TA) who helps undergraduate students with 
 their programming assignments during regular office hours. The TA’s office is rather small and has room for
 only one desk with a chair and computer. There are three chairs in the hallway outside the office where 
@@ -16,7 +16,7 @@ TA currently helping another student, the student sits on one of the chairs in t
 chairs are available, the student will come back at a later time.
 
 Question 22:
-
+-------------
 Write a program that implements the FIFO page replacement algorithm. First, generate a random page-reference 
 string where page numbers range from 0 to 9. Apply the random page-reference string to each algorithm, and 
 record the number of page faults incurred by each algorithm. Implement the replacement algorithm so that the
